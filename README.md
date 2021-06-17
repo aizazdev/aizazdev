@@ -7,4 +7,3 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m also working on blockchain technology Having experience in SOLIDITY, ERC20 TOKENS DEVELOPMENT, DAPPS DEVELOPMENT. 
 - 📫 How to reach me:[Gmail](mailto:aizazkhan.uos@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/aizazdev)
